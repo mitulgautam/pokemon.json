@@ -562,24 +562,5 @@
       "Sp. Defense": 40,
       "Speed": 41
     }
-  },
-  {
-    "id": 30,
-    "name": {
-      "english": "Nidorina",
-      "japanese": "ニドリーナ",
-      "chinese": "尼多娜"
-    },
-    "type": [
-      "Poison"
-    ],
-    "base": {
-      "HP": 70,
-      "Attack": 62,
-      "Defense": 67,
-      "Sp. Attack": 55,
-      "Sp. Defense": 55,
-      "Speed": 56
-    }
   }
 ]
