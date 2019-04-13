@@ -204,8 +204,7 @@
         }
     },
     {
-        "url": "https://raw.githubusercontent.com/mitulgautam/pokemon.json/master/thumbnails/011Metapod.png
-        ",
+        "url": "https://raw.githubusercontent.com/mitulgautam/pokemon.json/master/thumbnails/011Metapod.png",
         "id": 11,
         "name": {
             "english": "Metapod",
